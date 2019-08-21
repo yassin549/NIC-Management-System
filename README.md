@@ -60,7 +60,8 @@ The **NIC Management System** is a Windows Forms-based desktop application built
 - Exporting reports to Excel or PDF.  
 
 ## Contributing  
-Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.  
+- Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
+- For Any query feel free to contact at officialyassinkhoualdi@gmail.com.
 
 ---
 
